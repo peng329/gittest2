@@ -11,6 +11,7 @@ public class MySorterTest {
 	private double tc7[][] = { { 1, 2, -99 }, { 1, 2, -99 } };
 
 	private MySorter sorter;
+	private MySorter two;
 
 	@Before
 	public void setUp() throws Exception {
